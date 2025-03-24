@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nazersynx09
+- 👋 Hi, I’m @Jennel N.R.
 - 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning Next.js and MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? @jennelreola@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to developed some realworld solution web app
 
